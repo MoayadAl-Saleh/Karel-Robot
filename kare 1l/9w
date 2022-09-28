@@ -1,0 +1,8 @@
+Dimension: (9, 9)
+Color: (5, 1) WHITE
+Color: (5, 2) WHITE
+Color: (5, 3) WHITE
+Karel: (1, 1) east
+
+BeeperBag: INFINITE
+Speed: 0.03
